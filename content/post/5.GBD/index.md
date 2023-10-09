@@ -9,10 +9,10 @@ Utilizing Global Burden of Disease data, I explored and analyzed the economic bu
 
 # **What I did**
 
--   Designed the study
+-   Designed a comprehensive study using the human capital approach to calculate the global economic burden from 1990 to 2019, and employed the ARIMA model for forecasting future global economic burden
 
--   Analyzed the data
+-   Analyzed the data using R
 
--   Writing working papers
+-   Working on a manuscript
 
 You can find my simple code in website: <https://github.com/junjun987/GEB-BY-USING-DALYs>

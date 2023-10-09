@@ -1,6 +1,6 @@
 ---
 authors:
-- Jiajun Hao 郝佳君
+- admin
 - Peige Song
 - Therese Hesketh
 featured: false

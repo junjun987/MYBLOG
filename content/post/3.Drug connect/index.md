@@ -13,6 +13,6 @@ From March to September 2023, I participated in a project focused on the methodo
 
 -   Explored methodologies, primarily focusing on **distance algorithms** and **Coupling Coordination Degree** from physics, to develop an algorithm for measuring similarity
 
--    Delivered oral presentations
+-   Delivered an oral presentation to the government about our study
 
--   Wrote a report
+-   Compiled and composed the detailed report

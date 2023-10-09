@@ -14,7 +14,7 @@ adjusting China's threshold using discrete choice experiments:
 adjustment among general public"**. In this project, we primarily aim to
 understand the willingness to pay of the general population in China,
 their aversion to inequality and risk. (The project is currently
-ongoing.)
+ongoing)
 
 # **What I did**
 
@@ -26,14 +26,14 @@ ongoing.)
 
 -   Designed questions using Ngene
 
--   Conducted a simulation to check the validity of the model
+-   Conducted a simulation using Stata to check the validity of the model
 
 ## 2.Participated in the design of questionnaires on inequality aversion and risk aversion
 
--   literature review : integrated measures of inequality aversion and
+-   Conducted a literature review to integrate the measurement of inequality aversion and
     risk aversion
 
--   Designed a questionnaire on "inequality aversion"
+-   Designed a questionnaire about "inequality aversion"
 
 # **Some of my thoughts**
 

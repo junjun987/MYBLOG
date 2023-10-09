@@ -13,6 +13,6 @@ From March to September 2023, I participated in a project focusing on the mini-H
 
 -   Screened literature
 
--   Conducted data analysis: meta-analysis
+-   Conducted the meta-analysis using R
 
--   Composed a report
+-   Compiled and composed the detailed report
