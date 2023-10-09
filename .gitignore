@@ -1,0 +1,18 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+/public
+/blogdown
+/public/
+/resources/
+.DS_Store
+Thumbs.db
+hugo_build.lock
+git init
+git add .
+git commit -m "first comment"
+git remote add origin https://github.com/junjun987/jjH_blog.git
+git remote -v
+git pull origin master --allow-unrelated-histories
+git push -u origin master
