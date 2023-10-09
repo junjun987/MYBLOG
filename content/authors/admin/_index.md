@@ -35,7 +35,7 @@ social:
   link: https://github.com/junjun987
 - icon: cv
   icon_pack: ai
-  link: uploads/resume.pdf
+  link: "uploads/cv.pdf"
 status:
   icon: ☕️
 superuser: true
