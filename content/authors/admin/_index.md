@@ -35,7 +35,7 @@ social:
   link: https://github.com/junjun987
 - icon: cv
   icon_pack: ai
-  link: https://onedrive.live.com/?cid=2C442EFD2D5B3621&id=2C442EFD2D5B3621%2116452&parId=2C442EFD2D5B3621%2116451&o=OneUp
+  link: https://1drv.ms/b/s!AiE2Wy39LkQsgYBEt2tkmvhB8G8Oqg?e=LYXQ6S
 status:
   icon: ☕️
 superuser: true
