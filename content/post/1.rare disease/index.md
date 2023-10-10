@@ -10,7 +10,7 @@ From March to June 2023, I participated in a research project **investigating Ch
 
 # **What I did**
 
--   Supported work for DCE questionnaire design, such as finding some literature to support our study, calculating some key numbers we used in the questionnaire, and checking the validity, etc.
+-   Supported work for DCE questionnaire design, such as finding some literature to support the study, calculating some key numbers used in the questionnaire, and checking the validity
 
 -   Conducted the pilot study, revised the questionnaire, and made the final version of the questionnaire
 
