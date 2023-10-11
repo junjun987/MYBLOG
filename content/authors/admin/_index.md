@@ -8,7 +8,7 @@ education:
   - course: Bachelor of Management in Labor and Social Security
     institution: Shanxi University
     year: 2017-2021
-email: "haojiajunworking@gmail.com"
+email: "jiajunhao17@gmail.com"
 first_name: Jiajun
 highlight_name: true
 interests:
@@ -23,7 +23,7 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:haojiajunworking@gmail.com"
+  link: "mailto:jiajunhao17@gmail.com"
 - display:
     header: true
   icon: twitter
