@@ -5,7 +5,7 @@ title: Global Economic Burden of Neonatal Disorders in 1990-2030
 
 # **Project Description**
 
-Utilizing Global Burden of Disease data, I explored and analyzed the economic burden of neonatal disease and its specific causing globally from 1990 to 2030.
+Utilizing Global Burden of Disease data, I explored and analyzed the economic burden of neonatal disease and its specific causing globally from 1990 to 2030.
 
 # **What I did**
 
