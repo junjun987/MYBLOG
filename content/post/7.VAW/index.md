@@ -9,8 +9,8 @@ To articulate the magnitude, drivers and health impacts of violence against left
 
 # **What I did**
 
--   Participated in the composition of a proposal, with responsibilities focused on studying the types of violence perpetrated against left-behind women
+- Participated in the composition of a proposal, with responsibilities focused on studying the types of violence perpetrated against left-behind women
 
--   Participated in the investigation in the summer
+- Participated in the investigation in the summer
 
 -   ......

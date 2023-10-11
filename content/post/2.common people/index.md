@@ -20,20 +20,20 @@ ongoing)
 
 ## 1.Designed the Discrete Choice Experiment
 
--   Conducted a literature review (found the key factors for experiment)
+- Conducted a literature review (found the key factors for experiment)
 
--   Designed the model and checked constraints
+- Designed the model and checked constraints
 
--   Designed questions using Ngene
+- Designed questions using Ngene
 
--   Conducted a simulation using Stata to check the validity of the model
+- Conducted a simulation using Stata to check the validity of the model
 
 ## 2.Participated in the design of questionnaires on inequality aversion and risk aversion
 
--   Conducted a literature review to integrate the measurement of inequality aversion and
+- Conducted a literature review to integrate the measurement of inequality aversion and
     risk aversion
 
--   Designed a questionnaire about "inequality aversion"
+- Designed a questionnaire about "inequality aversion"
 
 # **Some of my thoughts**
 

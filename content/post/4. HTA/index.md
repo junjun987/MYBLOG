@@ -9,10 +9,10 @@ From March to September 2023, I participated in a project focusing on the mini-H
 
 # **What I did**
 
--   Developed search strategies for literature review and established inclusion and exclusion criteria
+- Developed search strategies for literature review and established inclusion and exclusion criteria
 
--   Screened literature
+- Screened literature
 
--   Conducted the meta-analysis using R
+- Conducted the meta-analysis using R
 
--   Compiled and composed the detailed report
+- Compiled and composed the detailed report

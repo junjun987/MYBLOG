@@ -9,10 +9,10 @@ From March to September 2023, I participated in a project focused on the methodo
 
 # **What I did**
 
--   Analyzed the current situation of hypertension medication in Shanghai
+- Analyzed the current situation of hypertension medication in Shanghai
 
--   Explored methodologies, primarily focusing on **distance algorithms** and **Coupling Coordination Degree** from physics, to develop an algorithm for measuring similarity
+- Explored methodologies, primarily focusing on **distance algorithms** and **Coupling Coordination Degree** from physics, to develop an algorithm for measuring similarity
 
--   Delivered an oral presentation to the government about our study
+- Delivered an oral presentation to the government about our study
 
--   Compiled and composed the detailed report
+- Compiled and composed the detailed report

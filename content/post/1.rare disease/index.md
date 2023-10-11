@@ -10,15 +10,15 @@ From March to June 2023, I participated in a research project **investigating Ch
 
 # **What I did**
 
--   Supported work for DCE questionnaire design, such as finding some literature to support the study, calculating some key numbers used in the questionnaire, and checking the validity
+- Supported work for DCE questionnaire design, such as finding some literature to support the study, calculating some key numbers used in the questionnaire, and checking the validity
 
--   Conducted the pilot study, revised the questionnaire, and made the final version of the questionnaire
+- Conducted the pilot study, revised the questionnaire, and made the final version of the questionnaire
 
--   Conducted some one-on-one interviews with decision-makers regarding their willingness to pay for a QALY for rare diseases
+- Conducted some one-on-one interviews with decision-makers regarding their willingness to pay for a QALY for rare diseases
 
--   Supported data analysis work, such as data cleaning
+- Supported data analysis work, such as data cleaning
 
--   Compiled and composed the detailed report
+- Compiled and composed the detailed report
 
 # **Some of my thoughts**
 
